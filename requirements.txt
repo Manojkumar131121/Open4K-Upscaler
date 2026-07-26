@@ -1,0 +1,29 @@
+# Open4K AI Upscaler Requirements
+
+# AI Framework
+torch
+torchvision
+torchaudio
+
+# Real-ESRGAN
+realesrgan
+basicsr
+facexlib
+gfpgan
+
+# Image / Video Processing
+opencv-python
+numpy
+Pillow
+
+# Video Processing
+ffmpeg-python
+
+# Web UI
+gradio
+
+# Utilities
+tqdm
+requests
+pyyaml
+scipy
